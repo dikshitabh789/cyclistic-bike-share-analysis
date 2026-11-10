@@ -87,9 +87,8 @@ highlight the potential benefits of annual membership.
 
 ## TABLEAU DASHBOARD
 
-Explore the interactive dashboard: https://public.tableau.com/authoring/CyclisticBikes_17927505703990/Dashboard1/Dashboard%201%20(2)#1
+Explore the interactive dashboard: https://public.tableau.com/authoring/CyclisticBikes_17927505703990/Dashboard3#1
 View Cyclistic Bikes Dashboard on Tableau Public 
-
 
 ## CONCLUSION 
 
